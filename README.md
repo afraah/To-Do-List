@@ -1,2 +1,2 @@
 # To-Do-List
-Python To-Do List Program
+A To-Do List Program written in Python.
